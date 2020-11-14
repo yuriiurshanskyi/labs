@@ -14,4 +14,4 @@ Howdy Ho!!!
 
 `git pull origin main` скачуємо з серверу файл
 
-[](C:\Users\Босс\Desktop\1440764527_saharnaya-kartinka-lyubov.jpg)
+[](love_is.jpg)
