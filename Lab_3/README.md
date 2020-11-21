@@ -21,6 +21,6 @@ pipenv run python manage.py startapp geralt
 pipenv install requests
 ```    
 
-+ Скріни відображениї сторінок
-![](/images/home.png)
-![](/images/health.png)
++ Скріни відображених сторінок
+[](/images/home.png)
+[](/images/health.png)
