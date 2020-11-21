@@ -22,4 +22,5 @@ pipenv install requests
 ```    
 
 + Скріни відображених сторінок
-
+![](/images/home.png)
+![](/images/health.png)
