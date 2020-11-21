@@ -16,11 +16,10 @@ pipenv run python manage.py startapp geralt
     + на головну сторінку, яку опрацьовує функція __main__
     + на сторінку `/health`, яку опрацьовує функція __health__
 
-+ Встановлюємо бібліотеку, для зндійснення моніторингу за допомогою файлу `monitoring.py` 
++ Встановлюємо бібліотеку, для здійснення моніторингу за допомогою файлу `monitoring.py` 
 ```
 pipenv install requests
 ```    
 
 + Скріни відображених сторінок
-![](/images/home.png)
-![](/images/health.png)
+
