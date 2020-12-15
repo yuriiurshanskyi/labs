@@ -44,7 +44,8 @@ docker push yuriiurshanskyi/lab4:django
 docker push yuriiurshanskyi/lab4:monitoring
 ```
 #### Створення docker тому, монтування його до імеджу
-
+```
 docker volume create yuriiurshanskyi
 
 docker run -it --net=host --volume yuriiurshanskyi:/app yuriiurshanskyi/lab4:monitoring
+```
