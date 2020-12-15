@@ -4,9 +4,9 @@
 #### Докер Repository [Repository](https://hub.docker.com/repository/docker/yuriiurshanskyi/lab4)
 
 __Демонстрація роботи__
-![](./images.png)
-![](./geralt.png)
-![](./health.png)
+![](./images.png)  
+![](./geralt.png)  
+![](./health.png)  
 
 
 #### Створення файлу `my_work.log`
