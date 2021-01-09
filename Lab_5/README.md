@@ -33,25 +33,25 @@ pipenv run pytest test_app.py --url http://localhost:5000
 ![](./img/make_docker-prune.png)  
 
 
-Виконуємо `make docker-push`
+Виконуємо `make docker-push`  
 ![](./img/make_docker-push.png)  
-Виконуємо `make docker-wipe`
+Виконуємо `make docker-wipe`  
 ![](./img/make_docker-wipe.png)
 
-Перевіряємо версію `docker-compose version`  
+Перевіряємо версію `docker-compose version`    
 ![](./img/docker-compose_version.png)  
 `docker-compose -p Flask up`  
 ![](./img/docker-compose_Flask.png)  
 
-Запущений додаток на compose:
+Запущений додаток на compose:  
 ![](./img/localhost.png)  
 ![](./img/localhost80hits.png)  
 ![](./img/localhost80logs.png)  
 
-`docker-compose push` - завантажуємо імеджі
-В даному випадку `docker-compose` є кращим за `Makefile`, адже ми працюємо з `Docker`
+`docker-compose push` - завантажуємо імеджі  
+В даному випадку `docker-compose` є кращим за `Makefile`, адже ми працюємо з `Docker`  
 
-`docker-compose -p Django up`
+`docker-compose -p Django up`  
 Демонстрація запуску:  
 ![](./img/django.png)  
 ![](./img/django_health.png)  
