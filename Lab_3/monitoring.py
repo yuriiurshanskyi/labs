@@ -25,6 +25,7 @@ def main(url):
                 logging.info("Ключ: %s, Значення: %s", key, data[key])
         except Exception as e:
             logging.error(f'Сталась помилка: {e}')
+        return 0
         time.sleep(60)
 
 
