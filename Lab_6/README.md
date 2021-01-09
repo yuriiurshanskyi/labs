@@ -8,8 +8,8 @@
 
 ## Посилання
 + #### [Мій Travis](https://travis-ci.org/github/yuriiurshanskyi/labs/).
-+ ####  [`.travis.yml`](https://github.com/yuriiurshanskyi/labs/blob/main/.travis.yml).
++ ####  [.travis.yml](https://github.com/yuriiurshanskyi/labs/blob/main/.travis.yml).
 + #### [Docker](https://hub.docker.com/repository/docker/yuriiurshanskyi/lab4)
-+ #### [`travis-build.sh`](https://github.com/yuriiurshanskyi/labs/blob/main/Lab_3/scripts/travis-build.sh).
++ #### [travis-build.sh](https://github.com/yuriiurshanskyi/labs/blob/main/Lab_3/scripts/travis-build.sh).
 ##
 ```
