@@ -1,10 +1,10 @@
 ## Lab_6: Автоматизація за допомогою CI/CD серверів.
 ## Хід роботи:
-### Додаємо пропущені кроки
-### Створюємо файл travis-build.sh
-### Дописані return 0 в цикли
-### Відредагований Dockerfile
-### Доповнюємо Makefile
++ ### Додаємо пропущені кроки
++ ### Створюємо файл travis-build.sh
++ ### Дописані return 0 в цикли
++ ### Відредагований Dockerfile
++ ### Доповнюємо Makefile
 
 ### [Travis](https://travis-ci.org/github/yuriiurshanskyi/labs/).
 + #### `.travis.yml` [file](https://github.com/yuriiurshanskyi/labs/blob/main/.travis.yml).
