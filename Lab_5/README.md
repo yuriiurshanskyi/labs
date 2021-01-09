@@ -51,8 +51,9 @@ pipenv run pytest test_app.py --url http://localhost:5000
 `docker-compose push` - завантажуємо імеджі  
 В даному випадку `docker-compose` є кращим за `Makefile`, адже ми працюємо з `Docker`  
 
-`docker-compose -p Django up`  
 
+
+`docker-compose -p Django up`  - запускаємо Django
 
 Демонстрація запуску:  
 ![](./img/django.png)  
