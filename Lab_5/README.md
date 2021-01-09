@@ -16,3 +16,5 @@ pipenv run python app.py
 ![](./img/localhost_hits.png)
 ![](./img/localhost_logs.png)
 
+Тестування:
+
